@@ -11,7 +11,7 @@ Every user is measured against others using a radar chart. The chart measures th
 ![snap](https://github.com/mohannishant6/Timble/blob/master/images/user_model.jpg)
 
 The user model is built using a set of fun quiz. The questions are mapped to one of the 5 personality measures.
-I selected engtossing and fun questions such as the following.
+I selected engrossing and fun questions such as the following.
 ![snap](https://github.com/mohannishant6/Timble/blob/master/images/questions.jpg)
 
 See the demo and code for user model in this repo.
